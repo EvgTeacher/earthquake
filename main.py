@@ -1,5 +1,6 @@
 import requests
 import sqlite3
+import random
 
 
 def save_data(place_magnitude_list):
